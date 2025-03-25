@@ -7,7 +7,7 @@
  * @version 1.0
  */
 
-const HELP_MESSAGE = PHP_EOL . "Usage: task-track <command>
+const HELP_MESSAGE = PHP_EOL . "Usage: task-tracker <command>
     Commands: 
         add \"task description\" - Create a new task
         list [todo|in-progress|done] - List tasks
