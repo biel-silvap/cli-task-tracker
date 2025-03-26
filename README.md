@@ -41,3 +41,7 @@ Check the "help" command for the available functions
 ```sh
 task-tracker help
 ```
+
+----------------
+
+Project idea and requirements from: https://roadmap.sh/projects/task-tracker
